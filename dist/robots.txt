@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sicha-maru.netlify.app/sitemap.xml
